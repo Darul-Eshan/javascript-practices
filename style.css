@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+
+    @apply text-2xl font-bold mb-4 text-center text-gray-800;
+}
